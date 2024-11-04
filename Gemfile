@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'neighbor', '~> 0.3.2'
+gem 'neighbor', '~> 0.5.0'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.2.1"
