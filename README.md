@@ -2,13 +2,7 @@
 
 This is a Rails API application configured with PostgreSQL, pgvector, and the [Neighbor](https://github.com/ankane/neighbor) gem for nearest neighbor search, running in Docker.
 
-## Prerequisites
-
-- Git
-- Docker and Docker Compose
-- A text editor
-
-## Initial Setup
+## Setup
 
 1. Clone the repository
 
